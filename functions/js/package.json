@@ -16,6 +16,7 @@
   "author": "Samuel Adranyi",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
     "chance": "^1.0.18",
     "faker": "^4.1.0"
   }
