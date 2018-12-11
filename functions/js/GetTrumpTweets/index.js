@@ -1,3 +1,7 @@
+var chance = require('chance');
+var fake = require('faker');
+var aios = require('axios');
+
 module.exports = async function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
 
