@@ -1,0 +1,22 @@
+{
+  "name": "functionsjs",
+  "version": "1.0.0",
+  "description": "MTX Portland Serverless on Azure Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Azure",
+    "Serverless",
+    "Functions",
+    "MTX",
+    "Portland"
+  ],
+  "author": "Samuel Adranyi",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.18",
+    "faker": "^4.1.0"
+  }
+}
